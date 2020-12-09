@@ -1,0 +1,15 @@
+{
+    "ghost_acc": 46.5628,
+    "ghost_instances": "6677",
+    "dist_meters_per_3m": "33.84",
+    "dist_meters_instances": "45307",
+    "dist_meters_avg": "6.29",
+    "dist_meters_std": "5.3",
+    "dist_meters_acc1m": "38.994",
+    "dist_meters_acc3m": "80.396",
+    "dist_meters_err": "18.8579",
+    "rank_k1": 29.2062,
+    "rank_k3": 58.2664,
+    "rank_instances": "8214",
+    "rank_avg_traj_len": "13.33"
+}
